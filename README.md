@@ -1,6 +1,7 @@
 # cvmaker
 
-A new Flutter project.
+Flutter app to create professional resume.
+
 
 ## Getting Started
 
